@@ -1,4 +1,2 @@
 #POKEDEX - Trabalho ESAB 
-![image description]01.png
-###
-![image description]02.png
+<img src="01.png">
