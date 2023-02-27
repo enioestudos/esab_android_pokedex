@@ -12,25 +12,25 @@
       {
         "id" : 2,
         "name" : "Shamander",
-        "type" : "Normal",
-        "strenght": "Nadar",
+        "type" : "Fogo",
+        "strenght": "Água",
         "img" : "2.png",
         "backgroundColor" : "red"
       },
       {
         "id" : 3,
         "name" : "Sharezade",
-        "type" : "Normal",
-        "strenght": "Nadar",
+        "type" : "Fogo",
+        "strenght": "Gelo",
         "img" : "3.png",
         "backgroundColor" : "#9933ff"
       },
 
       {
         "id" : 4,
-        "name" : "Zé Gotinha",
+        "name" : "Lechonk",
         "type" : "Normal",
-        "strenght": "Nadar",
+        "strenght": "Voar",
         "img" : "3.png",
         "backgroundColor" : "#ccc"
       }

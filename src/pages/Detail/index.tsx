@@ -14,7 +14,7 @@ const Detail = ({navigation, route}) =>{
                 <Text style={styles.name}>{pokemon[0].name}</Text>
                 <View style={styles.shadow} />
                 <Image source={require('../../../assets/' + pokemon[0].img)} style={styles.image} />
-                <View style={styles.description}>
+                <View style={{backgroundColor: pokemon[0].backgroundColor, ...styles.description}}>
                     <Text style={styles.descTitle}>Tipo</Text>
                     <Text style={styles.desc}>{pokemon[0].type}</Text>                               
                     <Text style={styles.descTitle}>Fraqueza</Text>
@@ -61,7 +61,6 @@ const styles = StyleSheet.create({
         color: '#fff',
         margin: 5,
         padding: 1,
-        backgroundColor: 'red',
         borderRadius: 20,
         height: '50%'
       },
