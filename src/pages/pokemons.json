@@ -1,0 +1,39 @@
+{
+    "count": 3,
+    "results": [
+      {
+        "id" : 1,
+        "name" : "Bubasauro",
+        "type" : "Normal",
+        "strenght": "Nadar",
+        "img" : "1.png",
+        "backgroundColor" : "#3399ff"
+      },
+      {
+        "id" : 2,
+        "name" : "Shamander",
+        "type" : "Normal",
+        "strenght": "Nadar",
+        "img" : "2.png",
+        "backgroundColor" : "red"
+      },
+      {
+        "id" : 3,
+        "name" : "Sharezade",
+        "type" : "Normal",
+        "strenght": "Nadar",
+        "img" : "3.png",
+        "backgroundColor" : "#9933ff"
+      },
+
+      {
+        "id" : 4,
+        "name" : "Zé Gotinha",
+        "type" : "Normal",
+        "strenght": "Nadar",
+        "img" : "3.png",
+        "backgroundColor" : "#ccc"
+      }
+     
+    ]
+  }
